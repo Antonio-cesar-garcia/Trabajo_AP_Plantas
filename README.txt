@@ -1,0 +1,1 @@
+Este notebook necesita que se descargue el dataset PlantVillage, y se descomprima al mismo nivel que el notebook, de forma que queden las carpetas que contienen las imágenes del dataset directamente dentro del directorio PlantVillage.
