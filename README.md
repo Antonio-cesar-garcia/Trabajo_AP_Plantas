@@ -1,3 +1,3 @@
 # Trabajo_AP_Plantas
 
-Este notebook necesita que se descargue el dataset PlantVillage, y se descomprima al mismo nivel que el notebook, de forma que queden las carpetas que contienen las imágenes del dataset directamente dentro del directorio PlantVillage.
+Este notebook necesita que se descargue el dataset PlantVillage, y se ha de descomprimir al mismo nivel que el notebook, de forma que queden las carpetas que contienen las imágenes del dataset directamente dentro del directorio PlantVillage.
